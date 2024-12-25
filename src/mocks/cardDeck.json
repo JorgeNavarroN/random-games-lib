@@ -1,0 +1,334 @@
+[
+  {
+    "type": "Hearts",
+    "cards": [
+      {
+        "id": "2H",
+        "type": "Hearts",
+        "value": 2,
+        "color": "Red"
+      },
+      {
+        "id": "3H",
+        "type": "Hearts",
+        "value": 3,
+        "color": "Red"
+      },
+      {
+        "id": "4H",
+        "type": "Hearts",
+        "value": 4,
+        "color": "Red"
+      },
+      {
+        "id": "5H",
+        "type": "Hearts",
+        "value": 5,
+        "color": "Red"
+      },
+      {
+        "id": "6H",
+        "type": "Hearts",
+        "value": 6,
+        "color": "Red"
+      },
+      {
+        "id": "7H",
+        "type": "Hearts",
+        "value": 7,
+        "color": "Red"
+      },
+      {
+        "id": "8H",
+        "type": "Hearts",
+        "value": 8,
+        "color": "Red"
+      },
+      {
+        "id": "9H",
+        "type": "Hearts",
+        "value": 9,
+        "color": "Red"
+      },
+      {
+        "id": "10H",
+        "type": "Hearts",
+        "value": 10,
+        "color": "Red"
+      },
+      {
+        "id": "JH",
+        "type": "Hearts",
+        "value": 11,
+        "color": "Red"
+      },
+      {
+        "id": "QH",
+        "type": "Hearts",
+        "value": 12,
+        "color": "Red"
+      },
+      {
+        "id": "KH",
+        "type": "Hearts",
+        "value": 13,
+        "color": "Red"
+      },
+      {
+        "id": "AH",
+        "type": "Hearts",
+        "value": 14,
+        "color": "Red"
+      }
+    ]
+  },
+  {
+    "type": "Diamonds",
+    "cards": [
+      {
+        "id": "2D",
+        "type": "Diamonds",
+        "value": 2,
+        "color": "Red"
+      },
+      {
+        "id": "3D",
+        "type": "Diamonds",
+        "value": 3,
+        "color": "Red"
+      },
+      {
+        "id": "4D",
+        "type": "Diamonds",
+        "value": 4,
+        "color": "Red"
+      },
+      {
+        "id": "5D",
+        "type": "Diamonds",
+        "value": 5,
+        "color": "Red"
+      },
+      {
+        "id": "6D",
+        "type": "Diamonds",
+        "value": 6,
+        "color": "Red"
+      },
+      {
+        "id": "7D",
+        "type": "Diamonds",
+        "value": 7,
+        "color": "Red"
+      },
+      {
+        "id": "8D",
+        "type": "Diamonds",
+        "value": 8,
+        "color": "Red"
+      },
+      {
+        "id": "9D",
+        "type": "Diamonds",
+        "value": 9,
+        "color": "Red"
+      },
+      {
+        "id": "10D",
+        "type": "Diamonds",
+        "value": 10,
+        "color": "Red"
+      },
+      {
+        "id": "JD",
+        "type": "Diamonds",
+        "value": 11,
+        "color": "Red"
+      },
+      {
+        "id": "QD",
+        "type": "Diamonds",
+        "value": 12,
+        "color": "Red"
+      },
+      {
+        "id": "KD",
+        "type": "Diamonds",
+        "value": 13,
+        "color": "Red"
+      },
+      {
+        "id": "AD",
+        "type": "Diamonds",
+        "value": 14,
+        "color": "Red"
+      }
+    ]
+  },
+  {
+    "type": "Clovers",
+    "cards": [
+      {
+        "id": "2C",
+        "type": "Clovers",
+        "value": 2,
+        "color": "Red"
+      },
+      {
+        "id": "3C",
+        "type": "Clovers",
+        "value": 3,
+        "color": "Red"
+      },
+      {
+        "id": "4C",
+        "type": "Clovers",
+        "value": 4,
+        "color": "Red"
+      },
+      {
+        "id": "5C",
+        "type": "Clovers",
+        "value": 5,
+        "color": "Red"
+      },
+      {
+        "id": "6C",
+        "type": "Clovers",
+        "value": 6,
+        "color": "Red"
+      },
+      {
+        "id": "7C",
+        "type": "Clovers",
+        "value": 7,
+        "color": "Red"
+      },
+      {
+        "id": "8C",
+        "type": "Clovers",
+        "value": 8,
+        "color": "Red"
+      },
+      {
+        "id": "9C",
+        "type": "Clovers",
+        "value": 9,
+        "color": "Red"
+      },
+      {
+        "id": "10C",
+        "type": "Clovers",
+        "value": 10,
+        "color": "Red"
+      },
+      {
+        "id": "JC",
+        "type": "Clovers",
+        "value": 11,
+        "color": "Red"
+      },
+      {
+        "id": "QC",
+        "type": "Clovers",
+        "value": 12,
+        "color": "Red"
+      },
+      {
+        "id": "KC",
+        "type": "Clovers",
+        "value": 13,
+        "color": "Red"
+      },
+      {
+        "id": "AC",
+        "type": "Clovers",
+        "value": 14,
+        "color": "Red"
+      }
+    ]
+  },
+  {
+    "type": "Spades",
+    "cards": [
+      {
+        "id": "2S",
+        "type": "Spades",
+        "value": 2,
+        "color": "Red"
+      },
+      {
+        "id": "3S",
+        "type": "Spades",
+        "value": 3,
+        "color": "Red"
+      },
+      {
+        "id": "4S",
+        "type": "Spades",
+        "value": 4,
+        "color": "Red"
+      },
+      {
+        "id": "5S",
+        "type": "Spades",
+        "value": 5,
+        "color": "Red"
+      },
+      {
+        "id": "6S",
+        "type": "Spades",
+        "value": 6,
+        "color": "Red"
+      },
+      {
+        "id": "7S",
+        "type": "Spades",
+        "value": 7,
+        "color": "Red"
+      },
+      {
+        "id": "8S",
+        "type": "Spades",
+        "value": 8,
+        "color": "Red"
+      },
+      {
+        "id": "9S",
+        "type": "Spades",
+        "value": 9,
+        "color": "Red"
+      },
+      {
+        "id": "10S",
+        "type": "Spades",
+        "value": 10,
+        "color": "Red"
+      },
+      {
+        "id": "JS",
+        "type": "Spades",
+        "value": 11,
+        "color": "Red"
+      },
+      {
+        "id": "QS",
+        "type": "Spades",
+        "value": 12,
+        "color": "Red"
+      },
+      {
+        "id": "KS",
+        "type": "Spades",
+        "value": 13,
+        "color": "Red"
+      },
+      {
+        "id": "AS",
+        "type": "Spades",
+        "value": 14,
+        "color": "Red"
+      }
+    ]
+  }
+]
